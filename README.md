@@ -15,7 +15,7 @@ The rules are the same as the classic game:
 
 </ol>
 
-Choose your weapon wisely!
+*Choose your weapon wisely!*
 
 The computer chooses first; just follow the prompts.
 
