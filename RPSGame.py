@@ -8,7 +8,7 @@ while current_temp is False:
 		current_temp = False
 
 	elif (int(current_temp) < 100):
-		print("water is a liquid! because it's above preezing and below boiling")
+		print("water is a liquid! because it's above freezing and below boiling")
 		current_temp = False
 	elif (int(current_temp) > 100 or (int(current_temp) == 100)):
 		print("Water is a gas! because it is.. extremly hot")
