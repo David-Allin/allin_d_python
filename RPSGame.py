@@ -72,7 +72,7 @@ while player == False:
 
 			computer_life = computer_life - 1
 
-			print("You win!", player, "smashes" ,computer_choice)
+			print("You win!", player, "cuts" ,computer_choice)
 
 		else:
 
@@ -90,7 +90,7 @@ while player == False:
 
 			computer_life = computer_life - 1
 
-			print("You win!", player, "smashes" ,computer_choice)
+			print("You win!", player, "cuts" ,computer_choice)
 
 			
 
@@ -98,7 +98,7 @@ while player == False:
 
 			player_life = player_life - 1
 
-			print("You lose!", computer_choice, "smashes" , player)
+			print("You lose!", computer_choice, "covers" , player)
 
 	
 
